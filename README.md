@@ -1,10 +1,4 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>
+
 
 <h1 align="center">Pipeline de Engenharia de Dados: Transações Financeiras</h1>
 
@@ -13,11 +7,23 @@
   <b>Construção de uma esteira ETL ponta a ponta para processamento, transformação e persistência de dados financeiros.</b>
 </p>
 
-<br>
 <p align="center">
-  
-### Visão Geral do Projeto
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
+
+<br>
+
+<p align="center">
+<img width="3744" height="265" alt="unnamed" src="https://github.com/user-attachments/assets/d92949f3-b7ee-4baf-a9e0-111cbb7b9c5b" />
+</p>
+
+
+<br>
+
 Este projeto simula um ambiente corporativo de engenharia de dados, focado em coletar informações brutas, realizar uma faxina rigorosa e estruturar dados transacionais para o consumo analítico seguro.
 
 * O Problema: Empresas financeiras lidam diariamente com volumes massivos de arquivos CSV que chegam sem validação, contêm nulos ou inconsistências e estão descentralizados, impedindo análises ágeis.
@@ -25,17 +31,6 @@ Este projeto simula um ambiente corporativo de engenharia de dados, focado em co
 
 <br>
 
-### Arquitetura do Pipeline
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/869239e6-5dda-40f7-8359-1859d2dac4b8" alt="Arquitetura do Pipeline" width="850px">
-</p>
-
----
-
-
-
----
 
 ### Tecnologias Utilizadas
 
@@ -45,7 +40,7 @@ Este projeto simula um ambiente corporativo de engenharia de dados, focado em co
 * Armazenamento: Apache Parquet & SQLite
 * Controle de Versão: Git & GitHub
 
----
+<br>
 
 ### Estrutura do Repositório
 
